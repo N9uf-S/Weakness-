@@ -1,0 +1,13 @@
+zipfile
+rarfile
+PyPDF2
+tkinter
+argparse
+os
+sys
+itertools
+string
+hashlib
+json
+threading
+time
